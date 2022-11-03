@@ -1,0 +1,13 @@
+# Local .terraform directories
+.terraform/*
+
+# .terraform configuration files
+.terraform.*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Access keys
+github_rsa
+github_rsa.pub
